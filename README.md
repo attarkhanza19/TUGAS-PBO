@@ -3,8 +3,11 @@
 ## Identitas Mahasiswa
 
 **Nama:** Muhammad Attar Khanza Habibillah
+
 **NIM:** 2509116006
+
 **Program Studi:** Sistem Informasi
+
 **Universitas:** Universitas Mulawarman
 
 ---
